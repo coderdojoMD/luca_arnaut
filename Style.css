@@ -1,3 +1,56 @@
-* {
-	color: red;
+
+.orange {
+	height: 300px;
+	width: 1150px;
+	background-color: orange;
+}
+.green {
+	height: 700px;
+	width: 400px;
+	background-color: green;
+}
+.crimson {
+	height: 800px;
+	width: 700px;
+	background-color: crimson;
+}
+.cyan {
+	height: 900px;
+	width: 600px;
+	background-color: cyan;
+}
+.black {
+	height: 50px;
+	width: 600px;
+	background-color: black;
+}
+.grey{
+	height: 50px;
+	width: 600px;
+	background-color: grey;
+}
+.yellow{
+	height: 200px;
+	width: 200px;
+	background-color: yellow;
+}
+.white{
+	height: 200px;
+	width: 200px;
+	background-color: white;
+	float: right;
+}
+.light-brown{
+	height: 200px;
+	width: 200px;
+	background-color: rgb(152, 118, 40);
+	float: right;
+}
+.smaller-image{
+	height: 300px;
+	width: 1150px;
+}
+.tall-image{
+	height: 200px;
+	width: 200px;
 }
