@@ -34,11 +34,8 @@
 	width: 200px;
 	background-color: yellow;
 }
-.white{
-	height: 200px;
-	width: 200px;
-	background-color: white;
-	float: right;
+.whitetext{
+	color: white;
 }
 .light-brown{
 	height: 200px;
@@ -48,14 +45,15 @@
 }
 .smaller-image{
 	height: 300px;
-	width: 1150px;
+	width: 1140px;
 }
 .tall-image{
 	height: 200px;
 	width: 200px;
+	float:right;
 }
 .normal-size{
 	height: 500px;
-	width: 500px;
+	width: 503px;
 	float: right;
 }
